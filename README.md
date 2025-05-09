@@ -1,13 +1,13 @@
 ## Домашнее задание к занятию "DOM"    [![Build status](https://ci.appveyor.com/api/projects/status/50hx7lny9bhx66ca?svg=true)](https://ci.appveyor.com/project/TanyaBazuto/dom-goblingame)
 
-[Github Pages]​(https://tanyabazuto.github.io/dom__goblinGame/)
+https://tanyabazuto.github.io/dom__goblinGame/
 
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
-1. **Важно**: всё должно собираться через Webpack (включая картинки и стили) и выкладываться на Github Pages через Appveyor.
-1. В README.md должен быть размещён бейджик сборки и ссылка на Github Pages
-1. В качестве результата присылайте проверяющему ссылки на ваши GitHub-проекты
+2. **Важно**: всё должно собираться через Webpack (включая картинки и стили) и выкладываться на Github Pages через Appveyor.
+3. В README.md должен быть размещён бейджик сборки и ссылка на Github Pages
+4. В качестве результата присылайте проверяющему ссылки на ваши GitHub-проекты
 
 ---
 
