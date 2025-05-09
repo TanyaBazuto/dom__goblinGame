@@ -1,7 +1,6 @@
 ## Домашнее задание к занятию "DOM"    [![Build status](https://ci.appveyor.com/api/projects/status/50hx7lny9bhx66ca?svg=true)](https://ci.appveyor.com/project/TanyaBazuto/dom-goblingame)
 
-https://tanyabazuto.github.io/dom__goblinGame/
-
+[![GitHub Pages](https://tanyabazuto.github.io/dom__goblinGame/)]
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
