@@ -1,4 +1,4 @@
-## Домашнее задание к занятию "DOM"  
+## Домашнее задание к занятию "DOM"    [![Build status](https://ci.appveyor.com/api/projects/status/50hx7lny9bhx66ca?svg=true)](https://ci.appveyor.com/project/TanyaBazuto/dom-goblingame)
 
 Правила сдачи задания:
 
