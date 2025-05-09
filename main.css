@@ -1,0 +1,1 @@
+body{display:flex;justify-content:center}.game-field{display:flex;flex-wrap:wrap;justify-content:space-around;margin-bottom:0;width:640px}.cell-field{background:#acacac;border-radius:10%;height:150px;margin:0 5px 10px;width:150px}.goblin{background:radial-gradient(#eb0410,#272727);border-radius:10%;padding:15px}
